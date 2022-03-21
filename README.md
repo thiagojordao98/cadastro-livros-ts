@@ -11,7 +11,7 @@ To run this project in the development mode, you'll need to have:
 On terminal, clone de repository and go to the directory
 ```bash
 $ git clone https://github.com/thiagojordao98/cadastro-livros-ts.git
-$ cd cadastro-livro-ts
+$ cd cadastro-livros-ts
 ```
 And execute the following command to install all de dependencies:
 
